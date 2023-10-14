@@ -1,0 +1,28 @@
+/* App.css */
+
+.centered-text {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.centered-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.calendar-icon {
+  margin-left: 10px;
+}
+
+.centered-button {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
